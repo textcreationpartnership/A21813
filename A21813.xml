@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for keeping the terme at Hertford Castell, and for adiournement of the same, from Mense Michaelis, vntill Crastino Animarum</title>
+            <title>Proclamations. 1582-10-08</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1582</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21813</idno>
+            <idno type="STC">STC 8138</idno>
+            <idno type="STC">ESTC S115352</idno>
+            <idno type="EEBO-CITATION">99850571</idno>
+            <idno type="PROQUEST">99850571</idno>
+            <idno type="VID">15782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for keeping the terme at Hertford Castell, and for adiournement of the same, from Mense Michaelis, vntill Crastino Animarum</title>
+                  <title>Proclamations. 1582-10-08</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1582]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  London --  Early works to 1800.</term>
+               <term>Terms of court --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15782:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>By the Queene.</head>
+            <head type="sub">A Proclamation for keeping the Terme at Hertford Caſtell, and for adiournement of the ſame, from Menſe Michaelis, vntill Craſtino Animarum.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Queenes moſt excellent Maieſtie, vpon information giuen vnto her Highneſſe, of the infection of the Plague, growen and diſperſed in her Citie of London, doubting by reaſon thereof, that if this Terme of Saint Michael ſhould haue bene kept at Weſtminſter, at the ordinary dayes and times appoynted, the ſame could not haue bene done without the peril of her good and louing ſubiects, whoſe preſeruation ſhee doth ſpecially tender, And yet hoping that by the goodneſſe of Almightie God, through the colde ſeaſon of the yeere then approching, and through ſuch good orders as by her Maieſties ſpeciall commaundements were appoynted to be kept &amp; obſerued, within the ſayd Citie, the ſaid infection of the plague, might either haue bene ceaſed or much diminiſhed, Did by the aduiſe of her Counſell, thinke <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery meete and expedient, that the ſaid Terme of Saint Michael, that is to ſay, from the <hi>vtas</hi> thereof, ſhould be adiourned <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fourth returne of the ſame, called <hi>Menſe Michaelis,</hi> whereof her Maieſtie cauſed notice to be giuen by a Proclama<g ref="char:EOLhyphen"/>tion lately publiſhed, bearing date at her Mannor of Otcland, the eighteene day of September laſt paſt:</p>
+            <p>Foraſmuch as her Maieſtie hath ſince receyued knowledge by certificate ſent from the Cities of London &amp; Weſtminſter, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the plague is greatly increaſed, And therefore doth doubt, that if the ſayd Terme ſhould be kept at Weſtminſter all the t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> about ſpecified, it could not be but daungerous to ſuch her good and louing ſubiects, as for ſuites &amp; other cauſes ſhould <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their neceſſary repaire thither: Hath by the aduiſe of her ſayd Counſell, found it very expedient, that it ſhould be adiour<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d from the ſaid returne, commonly called <hi>Menſe Michaelis,</hi> vntil the returne commonly called <hi>Craſtino Animarum</hi> next en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> to be kept in ſome other place of the realme. And hauing for that purpoſe made an eſpecial choice of her Maieſties caſtel at Hertford, in her Countie of Hertf. where her Highneſſe pleaſure is, that the reſidue of the ſayd Terme ſhalbe kept: Doeth therefore declare &amp; hereby ſignifie her wil &amp; pleaſure, That writtes of Adiournement, ſhalbe directed to the Iuſtices of either Bench &amp; to the Iudges of all other her Maieſties Courts, to whom like writtes haue bene vſually directed, giuing them au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>itie to adiourne the ſayd reſidue of the ſayd Terme from Weſtminſter aforſayd, vnto the ſaid Caſtel of Hertford, There <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beginne in the ſaid <hi>Craſtino Animarum</hi> next enſuing. And the ſame Adiournement ſhall be made at the ſaid retourne called <hi>Menſe Michaelis.</hi> And alſo that all matters, cauſes &amp; ſuites betweene partie &amp; partie, as in her Highnes Courtes of Chaunce<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> Starte Chamber, Exchequer, the Courts of Wardes &amp; Lyueries, the Duchie of Lancaſter, and Court Requeſts, ſhal <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> continuance, and the parties ſhall haue day from the date of this preſent, vntill the ſaid <hi>Craſtino Animarum,</hi> at the ſaid Caſtel of Hertford. Which her Highneſſe doth ſignifie vnto all her louing ſubiectes: Willing &amp; commanding them and euery <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them to whome it doeth appertaine, to obſerue and keepe their aſſemblies and apparances in all and euery her Highneſſe Courtes, at the ſaid Caſtel of Hertford in the ſaide <hi>Craſtino Animarum,</hi> in like maner, forme and condition, as they woulde, ſhould, or ought to haue done, if the ſayd Terme and Courtes had bene holden &amp; kept at Weſtminſter, as they and euery of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will anſwere at their perilles, any thing in her Maieſties ſaid former Proclamation to the contrary notwithſtanding.</p>
+            <p>And further her Maieſtie co<g ref="char:cmbAbbrStroke">̄</g>ſidering that if there ſhould happen to be any acceſſe &amp; apparance of her louing ſubiects at the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Caſtle or at y<hi rend="sup">e</hi> Towne of Hertford, during the reſidue of the Terme, of ſuch as haue had the plague in their houſes, or haue <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> themſelues infected therewith, there might enſue great peril &amp; dammage to thoſe that haue as yet bene cleere thereof, &amp; <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> further inconuenience might grow thereby to the reſt of the realme: Her Highnes therfore, for the auoyding thereof, doth <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ghtly charge &amp; commaunde, That no ſuch perſon or perſons that ſo haue bene infected, or haue had the plague in their <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>s of what eſtate or degree ſoeuer he or they be, ſhal repaire vnto the ſaid Caſtle or towne of Hertford, during the reſidue of the ſaid Terme, except he or they be or ſhalbe commanded by Proces, or otherwiſe haue ſpecial commandement to be there. And that euery ſuch perſon neuertheleſſe ſo infected, vpon his repaire to the ſaid Caſtle or Towne, ſhall (before he enter into <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> houſe within the ſaid Towne, or into the ſaid Caſtle) openly notifie and declare his eſtate touching his infection, to ſuch perſon or perſons as ſhalbe appointed by the Lord Chauncelor to haue the charge of the keeping of the gate of the ſaid Caſtle: And ſhal after, during the time of his abode there, beare and holde vp in his hand, one white rodde, of the length of one yard, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of her Maieſties diſpleaſure, and impriſonment of their bodies during her Highneſſe pleaſure.</p>
+            <p>And further her Maieſtie ſtraightly chargeth and co<g ref="char:cmbAbbrStroke">̄</g>mandeth all Iuſtices of peace of the ſaid Countie of Hertford, dwel<g ref="char:EOLhyphen"/>ling within twelue myles of the ſayd Towne and Caſtle of Hertford, and all Conſtables, Bailifes, &amp; head Officers of any Boroughs, Townes, villages, or Hamlets, within eyght miles of the ſayd Caſtle &amp; Towne of Hertford, that they and cuery them ſhall from &amp; after the day of the proclayming of this Proclamation within the ſaid Countie, doe their beſt indeuours to make &amp; ſet forth ſuch good orders, as by the goodneſſe of God) may tend moſt to the preſeruation of all places within the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Circuit of eight miles, from infection of the plague. And for that purpose, to aſſemble the<g ref="char:cmbAbbrStroke">̄</g>ſelues together weekely, from the time of the proclayming of this Proclamation, vntil the ende of the reſidue of the ſayd Terme, in ſome places conuenient, as well for the deuiſing, as for the execution of ſuch good orders. And that the ſaid Iuſtices of peace, ſhal in the firſt day of the <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>g in the reſidue of the ſaid Terme, ſignifie &amp; declare to y<hi rend="sup">e</hi> Lord Chauncelor of England, al that they &amp; the ſaid Conſtables, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other the ſaid Officers ſhal then haue done, in and about the premiſſes. And ſhal alſo from time to time follow ſuch directi<g ref="char:EOLhyphen"/>ons, as they ſhal receiue from the Lord Chauncelor, tending to the preſeruation of the places within the circuite aboue ſpe<g ref="char:EOLhyphen"/>cified, from the ſaid infection of the plague: Not doubting but that as well the ſayd Iuſtices, as other the inferior officers, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> carefully diſcharge their duetie in that behalfe, as they tender the continuance of her Maieſties fauour, and wil anſwere for the contrary at their perils.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Caſtel of Windſore, <date>the eight day of October, in the foure and twentieth yere of her Maieſties raygne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Chriſtopher Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
